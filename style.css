@@ -560,6 +560,15 @@ nav .fas{
   color: red;
 }
 /* ===== Blog Detail Page ===== */
+
+/* Override for blog page */
+.blog-section .layer {
+  position: relative;
+  height: auto;
+  background: none;
+  padding: 0;
+}
+
 .blog-detail .work {
   margin: 30px auto;
   max-width: 800px;
